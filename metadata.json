@@ -1,0 +1,6 @@
+{
+  "name": "Ironcore Fitness",
+  "description": "Premium modern gym and strength facility in Karachi. Build Strength. Build Discipline. Build Yourself.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
